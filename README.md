@@ -1,6 +1,8 @@
-# ProjectX
+## Graph Maker 
 
-3rd semester:
-In the project only the front-end was completed and we had to write the back-end
-along with creating the UMLS and a full breakdown of the design in a separate PDF file.
+Third semester Eclipse project for Software Development class.
+
+Organizes data collected from csv files and creates a graph for them according to the user's preference.
+Contains Front-End and Back-End.
+
 
